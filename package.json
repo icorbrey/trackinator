@@ -14,5 +14,8 @@
 	"bugs": {
 		"url": "https://github.com/icorbrey/trackinator/issues"
 	},
-	"homepage": "https://github.com/icorbrey/trackinator#readme"
+	"homepage": "https://github.com/icorbrey/trackinator#readme",
+	"devDependencies": {
+		"typescript": "^4.3.5"
+	}
 }
