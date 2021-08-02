@@ -7,13 +7,13 @@
 
 A GitHub App for automating project management.
 
-[badge-bugs]: https://img.shields.io/github/issues/icorbrey/trackinator/bug?label=bugs&style=flat-square
-[badge-chores]: https://img.shields.io/github/issues/icorbrey/trackinator/chore?label=chores&style=flat-square
-[badge-features]: https://img.shields.io/github/issues/icorbrey/trackinator/feature?label=features&style=flat-square
-[badge-milestone]: https://img.shields.io/github/milestones/progress-percent/icorbrey/trackinator/1?style=flat-square
+[badge-bugs]: https://img.shields.io/github/issues-search/icorbrey/trackinator?color=%23FF0000&label=bugs&query=is%3Aopen%20is%3Aissue%20label%3Abug&style=flat-square
+[badge-chores]: https://img.shields.io/github/issues-search/icorbrey/trackinator?color=%23FFFF00&label=chores&query=is%3Aopen%20is%3Aissue%20label%3Achore%20milestone%3Av0.1.0&style=flat-square
+[badge-features]: https://img.shields.io/github/issues-search/icorbrey/trackinator?color=%230088FF&label=features&query=is%3Aopen%20is%3Aissue%20label%3Afeature%20milestone%3Av0.1.0&style=flat-square
+[badge-milestone]: https://img.shields.io/github/milestones/progress-percent/icorbrey/trackinator/1?color=%23008888&style=flat-square
 
 [issues-bugs]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Abug "View open bugs in icorbrey/trackinator"
-[issues-chores]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Achore "View open chores in icorbrey/trackinator"
-[issues-features]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Afeature "View open features in icorbrey/trackinator"
+[issues-chores]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Achore "View current chores in icorbrey/trackinator"
+[issues-features]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Afeature "View current features in icorbrey/trackinator"
 
 [current-milestone]: https://github.com/icorbrey/trackinator/milestone/1 "View the current milestone for icorbrey/trackinator"
