@@ -1,9 +1,9 @@
 # trackinator
 
-[![View current roadmap][badge-roadmap]][current-roadmap]
-[![Open feature issues][badge-features]][issues-features]
-[![Open chore issues][badge-chores]][issues-chores]
-[![Open bug issues][badge-bugs]][issues-bugs]
+[![Roadmap for v0.1.0][badge-roadmap]][current-roadmap]
+[![Unfinished features for v0.1.0][badge-features]][issues-features]
+[![Unfinished chores for v0.1.0][badge-chores]][issues-chores]
+[![Active bugs][badge-bugs]][issues-bugs]
 
 A GitHub App for automating project management.
 
@@ -13,7 +13,7 @@ A GitHub App for automating project management.
 [badge-roadmap]: https://img.shields.io/github/milestones/progress-percent/icorbrey/trackinator/1?color=%23008888&style=flat-square
 
 [issues-bugs]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Abug "View open bugs in icorbrey/trackinator"
-[issues-chores]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Achore "View current chores in icorbrey/trackinator"
-[issues-features]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Afeature "View current features in icorbrey/trackinator"
+[issues-chores]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Achore+milestone%3Av0.1.0 "View current chores in icorbrey/trackinator"
+[issues-features]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Afeature+milestone%3Av0.1.0 "View current features in icorbrey/trackinator"
 
 [current-roadmap]: https://github.com/icorbrey/trackinator/issues/1 "View the current roadmap for icorbrey/trackinator"
