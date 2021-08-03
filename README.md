@@ -1,4 +1,4 @@
-# trackinator
+# Trackinator
 
 [![Roadmap for v0.1.0][badge-roadmap]][roadmap]
 [![Unfinished features for v0.1.0][badge-features]][features]
