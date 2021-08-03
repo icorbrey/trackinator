@@ -7,6 +7,10 @@
 
 A GitHub App for automating project management.
 
+## Suggestions
+
+Have an idea for a feature? [Let's discuss it!][discussions-ideas]
+
 [badge-bugs]: https://img.shields.io/github/issues-search/icorbrey/trackinator?color=%23FF0000&label=bugs&query=is%3Aopen%20is%3Aissue%20label%3Abug&style=flat-square
 [badge-chores]: https://img.shields.io/github/issues-search/icorbrey/trackinator?color=%23FFFF00&label=chores&query=is%3Aopen%20is%3Aissue%20label%3Achore%20milestone%3Av0.1.0&style=flat-square
 [badge-features]: https://img.shields.io/github/issues-search/icorbrey/trackinator?color=%230088FF&label=features&query=is%3Aopen%20is%3Aissue%20label%3Afeature%20milestone%3Av0.1.0&style=flat-square
@@ -15,5 +19,7 @@ A GitHub App for automating project management.
 [issues-bugs]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Abug "View open bugs in icorbrey/trackinator"
 [issues-chores]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Achore+milestone%3Av0.1.0 "View current chores in icorbrey/trackinator"
 [issues-features]: https://github.com/icorbrey/trackinator/issues?q=is%3Aopen+is%3Aissue+label%3Afeature+milestone%3Av0.1.0 "View current features in icorbrey/trackinator"
+
+[discussions-ideas]: https://github.com/icorbrey/trackinator/discussions/categories/ideas "View suggested features for icorbrey/trackinator"
 
 [current-roadmap]: https://github.com/icorbrey/trackinator/issues/1 "View the current roadmap for icorbrey/trackinator"
