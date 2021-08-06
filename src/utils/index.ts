@@ -1,1 +1,1 @@
-export { exists } from 'utils/exists'
+export { isDefined } from 'utils/isDefined'
