@@ -15,5 +15,8 @@ jobs:
       - name: Check out changes
         uses: actions/checkout@v2
         
+      - name: Install NPM modules
+        run: npm install
+        
       - name: Run tests
         run: npm run test
