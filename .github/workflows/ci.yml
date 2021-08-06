@@ -5,15 +5,18 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-    
+
 jobs:
 
   tests:
     runs-on: ubuntu-latest
     steps:
-      
+
       - name: Check out changes
         uses: actions/checkout@v2
-        
+
+      - name: Install NPM modules
+        run: npm install
+
       - name: Run tests
         run: npm run test
