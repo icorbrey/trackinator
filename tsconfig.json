@@ -1,10 +1,12 @@
 {
 	"compilerOptions": {
+		"strict": true,
+		"baseUrl": "src",
 		"module": "CommonJS",
 		"noImplicitAny": true,
 		"removeComments": true,
-		"preserveConstEnums": true,
-		"baseUrl": "src"
+		"resolveJsonModule": true,
+		"preserveConstEnums": true
 	},
 	"include": [
 		"src"
